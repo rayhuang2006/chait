@@ -1,2 +1,4 @@
 server/.env
-server/*.db
+server/chait.db
+server/chait.db-shm
+server/chait.db-wal
